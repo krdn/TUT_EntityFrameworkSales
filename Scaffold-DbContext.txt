@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=localhost;Initial Catalog=SalesSimple;Integrated Security=True;Encrypt=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context SalesContext -DataAnnotations
